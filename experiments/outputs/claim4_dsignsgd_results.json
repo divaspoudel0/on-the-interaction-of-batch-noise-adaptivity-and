@@ -1,0 +1,42 @@
+{
+  "nu": 1,
+  "sigma_results": {
+    "0.25": {
+      "dsign_no_sched": 0.005655903399619272,
+      "dsign_sched": 0.0016821026450118354,
+      "dsgd_no_sched": 703370303124.739,
+      "dsign_sched_div": 0.0
+    },
+    "0.5": {
+      "dsign_no_sched": 0.01091323259844817,
+      "dsign_sched": 0.0033690299099233332,
+      "dsgd_no_sched": 10000000000.0,
+      "dsign_sched_div": 0.0
+    },
+    "1.0": {
+      "dsign_no_sched": 0.020362471157354047,
+      "dsign_sched": 0.007094676405694414,
+      "dsgd_no_sched": 10000000000.0,
+      "dsign_sched_div": 0.0
+    },
+    "2.0": {
+      "dsign_no_sched": 0.03715975956838136,
+      "dsign_sched": 0.014823621062072285,
+      "dsgd_no_sched": 10000000000.0,
+      "dsign_sched_div": 0.0
+    },
+    "8.0": {
+      "dsign_no_sched": 0.1407928979379916,
+      "dsign_sched": 0.069610958676228,
+      "dsgd_no_sched": 10000000000.0,
+      "dsign_sched_div": 0.0
+    },
+    "16.0": {
+      "dsign_no_sched": 0.29344068385235444,
+      "dsign_sched": 0.14754292154208787,
+      "dsgd_no_sched": 10000000000.0,
+      "dsign_sched_div": 0.0
+    }
+  },
+  "claim_supported": true
+}

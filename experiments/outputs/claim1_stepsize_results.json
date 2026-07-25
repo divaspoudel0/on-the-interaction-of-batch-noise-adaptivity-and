@@ -1,0 +1,41 @@
+{
+  "theoretical_bound": 0.09876543209876543,
+  "stepsizes": {
+    "0.001": {
+      "mean_final_loss": 2.721155344794971,
+      "divergence_rate": 0.0,
+      "within_bound": true
+    },
+    "0.005": {
+      "mean_final_loss": 0.19635752318653707,
+      "divergence_rate": 0.0,
+      "within_bound": true
+    },
+    "0.01": {
+      "mean_final_loss": 0.0541432570589796,
+      "divergence_rate": 0.0,
+      "within_bound": true
+    },
+    "0.02": {
+      "mean_final_loss": 0.013949841294008397,
+      "divergence_rate": 0.0,
+      "within_bound": true
+    },
+    "0.05": {
+      "mean_final_loss": 0.0023648398075674783,
+      "divergence_rate": 0.0,
+      "within_bound": true
+    },
+    "0.1": {
+      "mean_final_loss": 900000000000000.0,
+      "divergence_rate": 0.9,
+      "within_bound": false
+    },
+    "0.2": {
+      "mean_final_loss": 1000000000000000.0,
+      "divergence_rate": 1.0,
+      "within_bound": false
+    }
+  },
+  "claim_supported": true
+}

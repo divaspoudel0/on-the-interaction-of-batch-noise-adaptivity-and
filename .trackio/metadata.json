@@ -1,0 +1,16 @@
+{
+  "space_id": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s",
+  "tags": [
+    "icml2026-repro",
+    "paper-Pmsc4yytlf"
+  ],
+  "private": false,
+  "repos_public": false,
+  "embed_content": false,
+  "trace_dataset": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s-traces",
+  "artifacts_bucket": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s-artifacts",
+  "workspace_bucket": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s-artifacts",
+  "trace_publication": "private",
+  "workspace_publication": "private",
+  "local_dashboards": {}
+}

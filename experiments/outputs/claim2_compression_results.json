@@ -1,0 +1,39 @@
+{
+  "omega_results": {
+    "4": {
+      "without_normalization": {
+        "mean_final_loss": 1000000000000000.0,
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "mean_final_loss": 0.0004926926249337727,
+        "divergence_rate": 0.0
+      }
+    },
+    "8": {
+      "without_normalization": {
+        "mean_final_loss": 1000000000000000.0,
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "mean_final_loss": 0.0077468652402306794,
+        "divergence_rate": 0.0
+      }
+    },
+    "16": {
+      "without_normalization": {
+        "mean_final_loss": 1000000000000000.0,
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "mean_final_loss": 0.1274836657602293,
+        "divergence_rate": 0.0
+      }
+    }
+  },
+  "baseline": {
+    "mean_final_loss": 450000000000000.0,
+    "divergence_rate": 0.45
+  },
+  "claim_supported": true
+}

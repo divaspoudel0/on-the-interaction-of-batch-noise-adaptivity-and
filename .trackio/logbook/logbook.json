@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "title": "Reproduction: On the Interaction of Batch Noise, Adaptivity, and Compression, under (L0,L1)-Smoothness: An SDE Approach",
+  "emoji": "🎯",
+  "space_id": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s",
+  "paper": null,
+  "tags": [
+    "icml2026-repro",
+    "paper-Pmsc4yytlf"
+  ],
+  "updated_at": "2026-07-25T14:24:55+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Reproduction: On the Interaction of Batch Noise, Adaptivity, and Compression, under (L0,L1)-Smoothness: An SDE Approach",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "executive-summary",
+        "title": "Executive summary",
+        "file": "pages/executive-summary/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-dsgd-adaptive-stepsize-condition",
+        "title": "Claim 1: DSGD adaptive stepsize condition",
+        "file": "pages/claim-1-dsgd-adaptive-stepsize-condition/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-dcsgd-compression-inflates-noise",
+        "title": "Claim 2: DCSGD compression inflates noise",
+        "file": "pages/claim-2-dcsgd-compression-inflates-noise/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3-gradient-normalization-as-stability-condition",
+        "title": "Claim 3: Gradient normalization as stability condition",
+        "file": "pages/claim-3-gradient-normalization-as-stability-condition/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-4-dsignsgd-converges-under-heavy-tailed-noise",
+        "title": "Claim 4: DSignSGD converges under heavy-tailed noise",
+        "file": "pages/claim-4-dsignsgd-converges-under-heavy-tailed-noise/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-5-empirical-validation-on-mlps",
+        "title": "Claim 5: Empirical validation on MLPs",
+        "file": "pages/claim-5-empirical-validation-on-mlps/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "traces": [],
+  "workspace": {
+    "file": "workspace.json",
+    "file_count": 0,
+    "total_size": 0,
+    "bucket_id": "divaspoudel/repro-on-the-interaction-of-batch-noise-adaptivity-and-compression-under-l-0-l-1-smoothness-an-s-artifacts"
+  },
+  "agent_view_tokens": 3860,
+  "trace_view_tokens": 10,
+  "workspace_view_tokens": 8,
+  "revision": "93f00be7075002f2195a"
+}

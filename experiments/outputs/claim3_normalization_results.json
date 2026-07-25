@@ -1,0 +1,37 @@
+{
+  "sigma1_sq_results": {
+    "0.0": {
+      "without_normalization": {
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "divergence_rate": 0.0
+      }
+    },
+    "0.01": {
+      "without_normalization": {
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "divergence_rate": 0.0
+      }
+    },
+    "0.05": {
+      "without_normalization": {
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "divergence_rate": 0.0
+      }
+    },
+    "0.1": {
+      "without_normalization": {
+        "divergence_rate": 1.0
+      },
+      "with_normalization": {
+        "divergence_rate": 0.0
+      }
+    }
+  },
+  "claim_supported": true
+}
